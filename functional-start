@@ -9,6 +9,9 @@
 
 - higher kinded type: 
   https://www.baeldung.com/scala/higher-kinded-types#:~:text=A%20higher%2Dkinded%20type%20is,a%20wide%20range%20of%20objects.
+
+- How to build types and function composition in Scala: https://www.youtube.com/watch?v=YXDm3WHZT5g
+
 - glosario : 
   https://degoes.net/articles/fp-glossary#:~:text=Algebraic%20structure%20is%20any%20structure,succeeds%20with%20the%20specified%20value.
 
