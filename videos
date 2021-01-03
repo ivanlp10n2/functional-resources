@@ -6,7 +6,8 @@
 
 - Patterns : 
   https://www.youtube.com/watch?v=v9QGWbGppis
-
+  https://www.youtube.com/watch?v=m40YOZr1nxQ
+  
 - higher kinded type: 
   https://www.baeldung.com/scala/higher-kinded-types#:~:text=A%20higher%2Dkinded%20type%20is,a%20wide%20range%20of%20objects.
 
@@ -17,17 +18,19 @@
 - glosario : 
   https://degoes.net/articles/fp-glossary#:~:text=Algebraic%20structure%20is%20any%20structure,succeeds%20with%20the%20specified%20value.
 
-what is a monoid:
+- what is a monoid:
 https://www.youtube.com/watch?v=BovTQeDK7XI 
 
-what is a binary operation:
+- what is a binary operation:
 https://www.youtube.com/watch?v=kgsettTSGfI
 
-Recursion in scala: 
+- Recursion in scala: 
 https://alvinalexander.com/scala/fp-book/recursion-lets-look-at-lists-head-tail-cons/
 
-Function composition: 
+- Function composition: 
 https://sanj.ink/posts/2017-06-07-composing-monadic-functions-with-kleisli-arrows.html
+
+
 
 extra : https://degoes.net/articles/functional-design
 
