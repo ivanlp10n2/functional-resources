@@ -19,11 +19,15 @@
 
 what is a monoid:
 https://www.youtube.com/watch?v=BovTQeDK7XI 
+
 what is a binary operation:
 https://www.youtube.com/watch?v=kgsettTSGfI
 
 Recursion in scala: 
 https://alvinalexander.com/scala/fp-book/recursion-lets-look-at-lists-head-tail-cons/
+
+Function composition: 
+https://sanj.ink/posts/2017-06-07-composing-monadic-functions-with-kleisli-arrows.html
 
 extra : https://degoes.net/articles/functional-design
 
